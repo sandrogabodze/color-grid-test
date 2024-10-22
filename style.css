@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "fonti";
+    src: url("../fonts/Mulish-VariableFont_wght.ttf");
+}
+.container-fluid {
+    height: 400px;
+}
+
+.col-3 {
+    height: 400px;
+}
